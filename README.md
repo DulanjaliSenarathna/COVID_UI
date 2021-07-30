@@ -1,6 +1,8 @@
 # Covid_UI
 
-A new Flutter project.
+Flutter UI Design.
+
+![image](https://user-images.githubusercontent.com/59603716/127680499-8b8c97e3-ec5c-424b-9274-002aa1a32e4a.png)
 
 ## Getting Started
 
